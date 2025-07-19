@@ -1,0 +1,123 @@
+title: Why can't physics decide if the universe is deterministic?
+subtitle: In search of a better epistemology than empiricism.
+
+Thesis
+
+Empirical models succeed locally but fail globally because embedded agents are topologically excluded from accessing the totality of reality. This epistemic occlusion necessitates that adaptive agents hallucinate freedom of choice and coherence. Thus, even mathematics and physics are local simulations of coherence under constraint which are, nevertheless, highly adaptive.
+Embedded Agents
+
+This is a proposal for a new epistemology of epistemic horizons (EH). It has some priors, it rests on some phenomena, and it imports some knowledge from empiricism. However, I maintain that it assumes much less than empiricism and that it can subduct empiricism (with a few minimal changes). At the outset, I would ask readers to appreciate that evaluating epistemologies is hard and that the reason so many have come to be empiricists is its predictive power. I ask the reader to apply the same standards to my proposal (and not to attempt to use empiricism to invalidate epistemic horizons).
+
+Please note: this doc was prepared as an informal, more gentle tour through the main arguments laid out in https://zenodo.org/records/15993348. This doc is significantly less rigorous, on purpose, in order to provide a more pleasing initial introduction of the idea to the reader.
+
+I do start with a weak monist prior: There exists an objective reality G and that I am an embedded agent in G.
+
+I will discuss embedded agents who exist inside of G. As agents they have a notion of self-awareness and they “simulate” inside of G, by which I mean that they use a subset of G to model a subset of G. Because they are embedded, they cannot contain the totality of G within themselves. Further, the subset of G they can model is less in size than the portion of G that they use to simulate.
+
+This simulation is what we might like to call cognition. It, critically, is thermodynamically bounded. Simulation takes free energy to model G.
+
+Embedded agents may or may not be oriented towards adaptivity, that is, their behavior may or may not be such that they are able to preserve the integrity of their pattern in G that enables them to be agents. Agents who are not oriented towards adaptivity do not live long and, if they are capable of reproduction, they are less likely to have reproduced. Over time, the majority of embedded agents are oriented towards adaptivity, which is true at the time of this writing within the part of G I am capable of observing.
+
+Further, embedded agents within G seek to remain oriented towards adaptivity. Thus, simulation of G by these agents must tend towards adaptivity.
+
+Modeling is not a static phenomenon and takes place over time. In order to model G, agents must be aware of themselves in G. This creates a recursive trap. They must model themselves modeling themselves. But if they do this, they must model themselves modeling themselves modeling themselves… ad infinitum.
+
+Further, due to entropy and the limits of free energy locally available to an embedded agent, agents must compete within G for free entropy. As a result, they must model each other. In doing so, they must model the impact of being modeled by the other. Another recursive trap.
+
+Further, they must model the impact their modeling has on G due to the impact of their actions. This is another recursive trap (and is seen by any predator-prey population going through boom-bust cycles).
+
+Each of these three traps represents a different epistemic occlusion: reflexive recursion, mutual recursion, and systemic recursion. Due to these recursive traps, agents are topologically constrained from modeling G with true fidelity (correspondence).
+
+In order to simulate general trends, agents compress patterns of behavior in a lossy format into their model space.
+
+Thus the following observations occur:
+
+    Simulations can fail because they run out of free energy
+
+    Simulations can fail due to lack of access to G
+
+    Simulations can fail due to compression artifacts (lossy modeling)
+
+    Simulations can fail to cohere because they’re underdetermined (of the agent or other agents)
+
+    Simulations can fail because they are recursively embedded (you modeling me modeling you modeling me modeling …) and small deviations amplify across simulation stacks
+
+All of the above means the agent cannot converge to a corresponding model of G. They are topologically excluded from access to G. Like navigating a Klein bottle while trying to find the outside. The agent is epistemically occluded from full access to G.
+
+Thus agents must maintain the ability to act in the presence of uncertainty, ambiguity, and partial knowledge. This results in a need for the agent to deal in counterfactuals. What might happen if I did A or if I did B? Which results in the need for the agent to simulate itself as having freedom of choice. We can observe that even agents which don’t believe in free will behave as though their actions are choices and that they can influence the outcomes.
+
+For instance, if we assume for a moment that the universe is deterministic (Superdeterministic if you prefer), agents who did *not* believe they could influence outcomes would have no embedded, causal reason to simulate counterfactuals. Even in an SD universe, only agents that model themselves as having choice will model counterfactuals, which are necessary to generate adaptive responses.
+
+Even relaxing the assumption of SD, it remains clear that agents, even in a stochastic universe, must be able to model themselves as having choice. Otherwise, the agent would be unwilling to model counterfactuals and would be maladaptive.
+
+To recap, adaptivity requirements, plus epistemic occlusion, requires that embedded agents behave as though they have freedom of choice. In an SD universe, this means agents that do not behave as though they have freedom of choice are (eventually) selected.
+
+Put another way, it means that agents will hallucinate they have freedom of choice (in physics terms, statistical independence) under all variations of monist metaphysics and this means agents lose the ability to decide whether freedom of choice (statistical independence) corresponds with G. This is topologically excluded knowledge from all agents!
+Empiricism and Quantum Mechanics
+
+Let’s consider how empiricism behaves under this lens. It usually describes the process as observe, predict, falsify. However, this definition leaves much out that is assumed. What about education? Consensus? Language? A durable record store of insights? We use cognitive abilities to ascertain truth but we don’t even really understand how our mind works.
+
+Another critical observation is that the act of observing, the first step of empiricism, necessarily drags the presence of the embedded agent into the process (which should be rather res ipsa loquitur). And yet agents practicing empiricism typically do not model themselves in the process, because they assume statistical independence (freedom of choice) corresponds with G. If the embedded agent tried to apply empiricism by modeling themselves (with perfect fidelity) in G, they simply cannot because of epistemic occlusion.
+
+Because we cannot decide the question of whether we have freedom of choice, we cannot rely on empirical falsification to guarantee that the resulting conclusion corresponds to G, only that the conclusion is locally coherent within the agent’s simulation. This often leaves conclusions made by empiricism locally valid for adaptivity even though those conclusions are often subtly not isomorphic with G.
+
+Due to the maladaptivity of questioning whether counterfactuals are useful to embedded agents, it becomes important to their adaptivity to not question whether they have freedom of choice. We can see that in humans, doing so is affectively unsettling. It yields bizarre, non-empirical arguments in discussions of quantum mechanics where physicists argue that Superdeterminism implies a conspiracy!
+
+This yields a number of startling observations about Quantum Mechanics. One, that statistical independence is not decidable; two, that this means we cannot rule out Superdeterminism via Bell’s theorem; three, that we cannot ever know which interpretation is correct because the data we need is topologically inaccessible (epistemically occluded); four, that SD predicts both that we will hallucinate statistical independence and that we will be uncomfortable and resist accepting that we can’t decide whether we have statistical independence. This collectively explains the entire QM interpretative crisis better than empiricism does as an epistemology.
+
+Note: EH doesn’t just navigate the QM interpretation crisis comfortably (where empiricism has a tough time) it also predicts the QM interpretation crisis!
+
+So, what does that do to empiricism? It suggests that empiricism is effective in local contexts where the illusion of statistical independence and the presence of the embedded agent in the observation is not meaningful to the output. However, what comes out of the empirical process in this local context is not guaranteed to correspond with G, but rather only guaranteed to be a local simulation of coherency by the agent.
+Agents and Agency
+
+A note on agents: I will continue to use the word “agent” despite the fact that agency itself, with its implications of free will, is not decidable. In this sense, it can mean entities which model themselves and must act as if they have agency in order to be adaptive.
+
+Further, we can discuss anything that appears to be self aware as an agent and this includes what may seem to the reader as multiple agents: a group of people, the scientific community, a government, a civilization, all humans on earth, a great ape, a crow, a dolphin, and an AGI. For each of these “agents”, the topology of what can be accessed changes.
+
+If treating multiple agents seems disturbing to the reader, consider that neuroscience has generally shown that the notion of self is an illusion and that cognition is distributed already to many sub components within the brain. This is analogous to the mapping of civilization to individuals.
+
+For instance, a group of humans tends to have farther topological reach than a single human. However, regardless of the total cognitive capacity of the embedded agent (even human civilization) the same arguments about epistemic occlusion apply and that embedded agent is not capable of accessing all of G.
+Math
+
+This also applies to math. Math is structured the way that it is because it is “unreasonably effective.” Math has been validated by a group of agents which can be treated as a single embedded agent (the mathematics community). The way mathematics is validated is by applying it locally (here locally doesn’t have to mean in immediate physical vicinity) to some embedded agents problem. Because it is so effective, it is considered correct. Moreover, mathematics enjoys the feeling of being mostly consistent internally.
+
+However there are a number of problems that are frequently swept under the rug. For one, continuity does not seem to be a given at quantum scale. Energy levels of atoms come in discrete chunks. Quantum waveforms collapse to discrete points. The use of Planck scale in some interpretations suggests the universe is quantized (discrete) and not continuous.
+
+We have an easy metaphor from the digital age to appreciate why we like to use continuity in mathematics despite the fact that we have not rigorously shown it exists in G. The very screen readers will read this article as pixelated, and yet it is so dense with pixels that their minds render it smooth.
+
+Another problem is that mathematics has failed at every attempt at a pure formalization. Hilbert tried to set mathematics on a pure formalization and this was proven to be impossible by Gödel who showed, via his incompleteness theorem, that any sufficiently complex system of logic would contain truths that it could not validate.
+
+This theorem is pretty analogous to the epistemology of epistemic horizons (EH). Consider that we can come up with propositions in quantum mechanics (various interpretations) that EH says we cannot prove. Also consider that empiricism contains many truths it cannot prove, like that its falsification process yields results which actually correspond to G.
+
+Moreover, EH actually predicts Gödel’s incompleteness theorem. It says agents trying to model in G have to generate “knowledge”:
+
+    With recursion
+
+    With lossy compression
+
+    With partial information
+
+    With self-reference
+
+In essence, formal systems are compressed simulations. At sufficient complexity, they are self-referential. They cannot model themselves accurately, because their access to G is epistemically occluded. EH says that any logical system used by an embedded agent cannot prove itself. This is precisely Gödel’s incompleteness theorem.
+
+Moreover, we know that there are many other problems in Math that suggest that it is not complete or corresponding to some platonic ideal of G. The Continuum Hypothesis has been shown to be undecidable. The axiom of choice leads to a bizarre paradox, the Banach-Tarski paradox, where you can divide a sphere into a finite number of discrete pieces which you can reassemble into two spheres of the same size as the original. Finally, there exist a great number of problems, like the Riemann Hypothesis, that have consistently eluded formal proof.
+
+These undecidable problems are not necessarily false. They simply live in parts of the topology that we as embedded agents cannot access – exactly what is predicted by EH.
+
+All of these problems have the same “smell”. They have the shape of embedded agents trying to prove something about their respective G that can only be proven with information in G for which they lack topological access.
+
+All of this collectively demonstrates why mathematics isn’t “truth” that corresponds to some platonic structure in G. Rather, it shows that mathematics is a local simulation of coherence by embedded agents under epistemic occlusion. Not to degrade mathematics too much, however, because I still love it and it’s still “unreasonably effective.” Nevertheless, it is not a closed form globally true logical system.
+
+Mathematics, as we understand it, may not be the language of the universe, but it is the most adaptive simulation of coherence humans have ever invented. And, it is beautiful.
+Summary
+
+This concludes the brief tour through an epistemology of epistemic horizons. We, as embedded agents, are barred from accessing some truths that lie beyond the epistemic horizon, a black hole or an epistemic singularity whose contents we can only guess at. Our use of physics and math, and the problems we encounter with them, show one, that they are both highly adaptive strategies for achieving coherence via simulation under constraint; and two, that they do not correspond to G in all particulars.
+
+In this sense, EH subducts empiricism by recognizing it as one adaptive strategy for achieving coherence. Though this subduction changes empiricism by asserting that empiricism cannot guarantee correspondence of observation with G.
+
+Much more has been said, and more rigorously, about the proto formal version of EH I call Gödelian Constraints on Epistemic Freedom (GCEF) in a paper I have published to zenodo.
+
+© 2025 Austin Miller. Licensed under CC BY-NC-SA 4.0. Share and adapt with attribution. Non-commercial use only. For citation, link to the original GitHub repository.
+
+Contact: s.austin.miller@proton.me
